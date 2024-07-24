@@ -1,5 +1,5 @@
 # Mohammed Aladham
-### TobRated Developer (Laravel, Vue.js)
+### TobRated Developer (Node.js, Laravel)
 
 <br>
 
